@@ -1,5 +1,5 @@
-import argparse
 import os
+import argparse
 
 
 def generate_readme(directory):
